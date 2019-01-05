@@ -1,0 +1,24 @@
+{
+  "name": "coding-puzzles",
+  "version": "0.0.1",
+  "description": "Some JavaScript coding puzzles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poulzinho/coding-puzzles.git"
+  },
+  "keywords": [
+    "javascript",
+    "puzzles",
+    "mocha"
+  ],
+  "author": "poulzinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poulzinho/coding-puzzles/issues"
+  },
+  "homepage": "https://github.com/poulzinho/coding-puzzles#readme"
+}
